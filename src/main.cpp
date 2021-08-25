@@ -7,5 +7,11 @@ int main() {
         bot.getApi().sendMessage(message->chat->id, "Salam test edirem!");
     });
 
+   
+    
+    // catch (TgBot::TgException& e) {
+    // printf("error: %s\n", e.what()); Error: xətaları görmək istəsən aktifləşdir
+    // }
+    
     return 0;
 }
