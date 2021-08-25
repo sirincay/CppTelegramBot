@@ -10,8 +10,7 @@ int main() {
    
     
     // catch (TgBot::TgException& e) {
-    // printf("error: %s\n", e.what()); Error: xətaları görmək istəsən aktifləşdir
-    // }
+    // printf("error: %s\n", e.what()); } Error: 
     
     return 0;
 }
